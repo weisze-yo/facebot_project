@@ -17,9 +17,8 @@ To install and set up the Facebot project, follow these steps:
    - Open a terminal.
    - Execute the following command:
      ```
-     git clone https://github.com/your-username/facebot_project.git
+     git clone https://github.com/weisze-yo/facebot_project.git
      ```
-     Replace "your-username" with your actual GitHub username.
 
 2. Navigate to the project directory:
    ```
@@ -40,12 +39,12 @@ To run the Facebot project, follow these steps:
    roscore
    ```
 
-2. Run the command receiver node by executing the following command:
+2. Run the command subscriber node by executing the following command:
    ```
    rosrun facebot_package receive_command.py
    ```
 
-3. Run the command sender node by executing the following command:
+3. Run the command publisher node by executing the following command:
    ```
    rosrun facebot_package send_command.py
    ```
