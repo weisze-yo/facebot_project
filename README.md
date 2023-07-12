@@ -59,6 +59,6 @@ This is a project where it is used to fulfill the assignment that is assigned in
 Finally, I would like to appreciate my teammates' hard work on this project, they are: 
 1. [Khor Zhi Qian](https://github.com/Keyu0625)
 2. [Lim Wei Sze](https://github.com/weisze-yo)
-3. [Kelvin Cheah]()
+3. [Kelvin Cheah](https://github.com/kelvin660)
 4. [Teh Yi Ying](https://github.com/yiying305)
 
