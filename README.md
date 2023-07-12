@@ -49,6 +49,9 @@ To run the Facebot project, follow these steps:
    rosrun facebot_package send_command.py
    ```
 
+### References
+Python, R. (2023). Build your own face recognition tool with Python. realpython.com. https://realpython.com/face-recognition-with-python/ 
+
 ### Acknowledgement
 
 This is a project where it is used to fulfill the assignment that is assigned in WID3005 Intelligent Robotics at [University of Malaya](https://www.um.edu.my/).
